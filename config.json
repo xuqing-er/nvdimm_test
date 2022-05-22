@@ -1,0 +1,11 @@
+{
+    "type": "read_rnd",
+    "file_path": "/dev/dax0.0",
+    "pmem_space_size": "0",
+    "element_size": "8",
+    "loop_num":"12800000",
+    "stride":"4096",
+    "offset":"192",
+    "repetition":"1",
+    "preload_pagetable":0
+}

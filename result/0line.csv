@@ -1,0 +1,12 @@
+# Collector: Intel(R) PMWatch v3.2.1
+# Output Format: v1.0
+# Collected on Sat May 21 06:55:36 2022
+# Default Format
+# Avg column: read_hit_ratio (derived), write_hit_ratio (derived)
+timestamp;;DIMM0;;;;;;;;;;DIMM1;;;;;;;;;;
+epoch;timestamp;bytes_read (derived);bytes_written (derived);read_hit_ratio (derived);write_hit_ratio (derived);media_read_ops (derived);media_write_ops (derived);read_64B_ops_received;write_64B_ops_received;cpu_read_ops;cpu_write_ops;bytes_read (derived);bytes_written (derived);read_hit_ratio (derived);write_hit_ratio (derived);media_read_ops (derived);media_write_ops (derived);read_64B_ops_received;write_64B_ops_received;cpu_read_ops;cpu_write_ops;
+1653116141;10500823162;251392;3931136;0.00;0.00;982;15356;65352;61424;37;17;275968;3955456;0.00;0.00;1078;15451;66116;61804;37;17;
+1653116146;10500759274;253696;3980544;0.00;0.00;991;15549;66160;62196;37;17;280832;4004352;0.00;0.00;1097;15642;66956;62568;37;17;
+1653116151;10500674936;253440;3980288;0.00;0.00;990;15548;66152;62192;37;17;286464;4012544;0.00;0.00;1119;15674;67172;62696;37;17;
+1653116156;10500848962;253952;3980032;0.00;0.00;992;15547;66156;62188;37;17;276736;4003840;0.00;0.00;1081;15640;66884;62560;37;17;
+1653116161;10500894382;256000;3980288;0.00;0.00;1000;15548;66192;62192;37;17;288000;4007168;0.00;0.00;1125;15653;67112;62612;37;17;
